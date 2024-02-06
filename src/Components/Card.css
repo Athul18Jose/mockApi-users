@@ -1,0 +1,9 @@
+.list:hover{
+    background-color: rgb(209, 208, 208);
+}
+
+.cmpny:hover{
+    cursor: pointer;
+    background-color: rgb(209, 208, 208);
+}
+
